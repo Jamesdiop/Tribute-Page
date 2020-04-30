@@ -1,0 +1,47 @@
+main {
+  color: #111;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.4em;
+  text-align: center;
+  margin: 15px;
+  padding: 10px;
+  background: #fbe3b9;
+  letter-spacing: 0.1em;
+}
+body {
+  background: #fab696;
+}
+strong {
+  font-style: italic;
+  color: #2d334a;
+}
+img {
+  max-width: 100%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+figure {
+  text-align: center;
+}
+/* spacing the text to the img */
+figcaption {
+  padding: 10px;
+}
+/* list style */
+ul {
+  text-align: left;
+}
+tribute-link {
+  color: #550a46;
+  
+}
+/* mouse over link */
+a:hover {
+  color: red;
+}
+/* link visited */
+a:visited {
+  color: #0c9463;
+}
